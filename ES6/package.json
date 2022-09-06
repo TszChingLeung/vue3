@@ -1,16 +1,13 @@
 {
-  "type": "module",
-  "name": "code",
+  "name": "es6",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "01-object.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "then-fs": "^2.0.0"
-  }
+  "license": "ISC"
 }
